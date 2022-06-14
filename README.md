@@ -7,7 +7,7 @@ Passionate about web and mobile development technologies.
 
 ### Hi there 👋
 
-I'm Ricardo Fernandes. I am currently a web developer, content producer on Youtube. 
+I'm Ricardo Fernandes. I am currently a web developer.
 
 I have experience in the following technologies:
 
